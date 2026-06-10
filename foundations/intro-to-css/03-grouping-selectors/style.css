@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.normal,
+.highlight {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.normal {
+    background-color: black;
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+}
