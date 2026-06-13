@@ -54,7 +54,9 @@ We separated it out here to make it extra clear what has changed. */
   padding: 8px;
 }
 
+
 button {
+  text-align: center;
   display: block;
   margin: 0 auto;
   padding: 8px 24px;
